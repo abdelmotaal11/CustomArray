@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1722023970 source:d:\evatask2\customarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Custom_Array.h"
+	"Benchmark.h"
+
+1722024276 d:\evatask2\customarray\include\custom_array.h
+	<stddef.h>
+	<pthread.h>
+
+1722024426 d:\evatask2\customarray\include\benchmark.h
+
+1722024424 source:d:\evatask2\customarray\src\benchmark.c
+	"benchmark.h"
+	<stdio.h>
+	"Custom_Array.h"
+
+1722026472 source:d:\evatask2\customarray\src\custom_array.c
+	"Custom_Array.h"
+	<stdio.h>
+	<stdlib.h>
+
+1722024461 source:d:\evatask2\customarray\src\vectorperformance.cpp
+	"VectorPerformance.h"
+
+1722024472 d:\evatask2\customarray\include\vectorperformance.h
+	<vector>
+	<chrono>
+	<iostream>
+
+1722026313 source:d:\evatask2\customarray\test_custom_array.c
+	<assert.h>
+	<stdio.h>
+	"Custom_Array.h"
+
